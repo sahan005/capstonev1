@@ -1,0 +1,16 @@
+{
+  "base_url": "https://tutorialsninja.com/demo/",
+  "user": {
+    "first_name": "Automation",
+    "last_name": "Tester",
+    "email": "tester_20260923204159@example.com",
+    "telephone": "9876543210",
+    "password": "Password@123",
+    "is_registered": true
+  },
+  "product": {
+    "search_term": "MacBook",
+    "product_name": "MacBook",
+    "target_quantity": 3
+  }
+}
