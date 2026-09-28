@@ -162,3 +162,15 @@
 2026-09-23 21:18:54,602 [INFO] Screenshot captured: 20260923_211854_final_cart.png
 2026-09-23 21:18:56,603 [INFO] All 10 steps executed successfully!
 2026-09-23 21:18:56,604 [INFO] Closing browser...
+2026-09-28 12:09:52,882 [INFO] ====== WebDriver manager ======
+2026-09-28 12:09:57,649 [INFO] Get LATEST chromedriver version for google-chrome
+2026-09-28 12:09:58,014 [INFO] There is no [win64] chromedriver "154.0.8037.57" for browser google-chrome "154.0.8037" in cache
+2026-09-28 12:09:59,866 [INFO] There is no [win64] chromedriver "154.0.8037.57" for browser google-chrome "154.0.8037" in cache
+2026-09-28 12:09:59,866 [INFO] Get LATEST chromedriver version for google-chrome
+2026-09-28 12:10:00,493 [INFO] WebDriver version 154.0.8037.57 selected
+2026-09-28 12:10:00,502 [INFO] Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/154.0.8037.57/win64/chromedriver-win64.zip
+2026-09-28 12:10:00,509 [INFO] About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/154.0.8037.57/win64/chromedriver-win64.zip
+2026-09-28 12:10:02,273 [INFO] Driver downloading response is 200
+2026-09-28 12:10:05,070 [INFO] Driver has been saved in cache [C:\Users\Nilabhra\.wdm\drivers\chromedriver\win64\154.0.8037.57]
+2026-09-28 12:12:17,340 [INFO] ====== WebDriver manager ======
+2026-09-28 12:12:19,265 [INFO] Driver [C:\Users\Nilabhra\.wdm\drivers\chromedriver\win64\154.0.8037.57\chromedriver-win64/chromedriver.exe] found in cache by browser version
